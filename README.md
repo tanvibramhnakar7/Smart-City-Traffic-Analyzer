@@ -1,4 +1,4 @@
-🚦 Smart City Traffic Analyzer
+🚦 Smart City Traffic Analyzer:
 🧠 Project Objective
 The goal of this project is to build an automated data pipeline that analyzes real or simulated traffic data to identify traffic patterns, predict congestion hotspots, and pinpoint peak hours. This solution demonstrates Python-based ETL (Extract, Transform, Load) processes with integration into a MySQL database—showcasing skills in data modeling, time-series analysis, and data engineering.
 
